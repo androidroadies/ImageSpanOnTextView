@@ -1,4 +1,4 @@
-package com.example.multidots.scrollingtextview;
+package com.example.multidots.imagespanontextview;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
